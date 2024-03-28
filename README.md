@@ -9,6 +9,9 @@ The primary library utilized in this repository is OpenCV. OpenCV (Open Source C
 Contents
 
 Here's a brief overview of what you'll find in this repository:
+
 IP_ObjectDetectionUsingMultipleTechniques
+
 IP_ImageQualityImprovementUsingNoise
+
 IP_EdgeDetection
