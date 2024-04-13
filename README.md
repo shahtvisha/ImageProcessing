@@ -15,3 +15,7 @@ IP_ObjectDetectionUsingMultipleTechniques
 IP_ImageQualityImprovementUsingNoise
 
 IP_EdgeDetection
+
+IP_ImageQualityImprovementUsingNoise
+
+IP_ImageSticting
