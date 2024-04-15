@@ -20,3 +20,5 @@ IP_EdgeDetection
 IP_ImageQualityImprovementUsingNoise
 
 IP_ImageSticting
+
+ImageGenerationWithGAN_MNIST
