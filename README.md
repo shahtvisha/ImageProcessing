@@ -22,3 +22,5 @@ IP_ImageQualityImprovementUsingNoise
 IP_ImageSticting
 
 ImageGenerationWithGAN_MNIST
+
+HistogramEqualization
