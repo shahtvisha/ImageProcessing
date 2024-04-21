@@ -24,3 +24,5 @@ IP_ImageSticting
 ImageGenerationWithGAN_MNIST
 
 HistogramEqualization
+
+ImageAnimation
