@@ -26,3 +26,6 @@ ImageGenerationWithGAN_MNIST
 HistogramEqualization
 
 ImageAnimation
+
+HumanDetectionInImages
+
