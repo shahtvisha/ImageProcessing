@@ -29,3 +29,4 @@ ImageAnimation
 
 HumanDetectionInImages
 
+ImageSegmentationComparativeAnalysis
