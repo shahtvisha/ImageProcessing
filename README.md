@@ -30,3 +30,5 @@ ImageAnimation
 HumanDetectionInImages
 
 ImageSegmentationComparativeAnalysis
+
+ImageMorphing 
