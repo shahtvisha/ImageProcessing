@@ -32,3 +32,5 @@ HumanDetectionInImages
 ImageSegmentationComparativeAnalysis
 
 ImageMorphing 
+
+HoughTransformLineDetection
