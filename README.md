@@ -1,7 +1,7 @@
 # ImageProcessing
 Welcome to my Image Processing Repository!
 
-This repository contains some of my work in image processing, where I've been experimenting with various techniques and algorithms. From basic operations to more advanced image manipulation, I've explored a range of topics to deepen my understanding of image processing.
+This repository contains some of my work in image processing, where I've been experimenting with various techniques and algorithms. From basic operations to more advanced image manipulation, I've explored a range of topics to deepen my understanding of image processing. 
 
 # Libraries Used
 
